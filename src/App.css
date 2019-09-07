@@ -1,3 +1,11 @@
 .App {
   text-align: center;
 }
+.Button {
+  background-color: green;
+  text-align: center;
+  color: white;
+  padding: 10px;
+  margin: 20px;
+  width: 10%
+}
